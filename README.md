@@ -4,9 +4,10 @@ taskiq-kombu is a plugin for taskiq that adds a new broker based on [kombu](http
 
 The broker makes use of kombu `Consumer` and `Producer` so you can use any kombu transport as taskiq broker.
 
-[![CI](https://github.com/soapun/taskiq-kombu/actions/workflows/ci.yml/badge.svg)](https://github.com/soapun/taskiq-kombu/actions/workflows/ci.yml) [![PyPI](https://badge.fury.io/py/taskiq-kombu.svg)](https://badge.fury.io/py/taskiq-kombu) [![Python](https://img.shields.io/pypi/pyversions/taskiq-kombu.svg)](https://pypi.org/project/taskiq-kombu/)
+[![CI](https://github.com/soapun/taskiq-kombu/actions/workflows/ci.yml/badge.svg)](https://github.com/soapun/taskiq-kombu/actions/workflows/ci.yml) ![PyPI - Version](https://img.shields.io/pypi/v/taskiq-kombu?color=g)
+ [![Python](https://img.shields.io/pypi/pyversions/taskiq-kombu.svg)](https://pypi.org/project/taskiq-kombu/)
 
-[![License](https://img.shields.io/pypi/l/taskiq-kombu.svg)](https://github.com/soapun/taskiq-kombu/blob/main/LICENSE) [![MyPy](https://img.shields.io/badge/type_checked-mypy-informational.svg)](https://mypy.readthedocs.io/en/stable/introduction.html) [![Ruff](https://img.shields.io/badge/style-ruff-blue?logo=ruff&logoColor=white)](https://github.com/astral-sh/ruff) [![codecov](https://codecov.io/github/soapun/taskiq-kombu/graph/badge.svg?token=RCMKRL0SFC)](https://codecov.io/github/soapun/taskiq-kombu)
+![GitHub License](https://img.shields.io/github/license/soapun/taskiq-kombu) [![MyPy](https://img.shields.io/badge/type_checked-mypy-informational.svg)](https://mypy.readthedocs.io/en/stable/introduction.html) [![Ruff](https://img.shields.io/badge/style-ruff-blue?logo=ruff&logoColor=white)](https://github.com/astral-sh/ruff) [![codecov](https://codecov.io/github/soapun/taskiq-kombu/graph/badge.svg?token=RCMKRL0SFC)](https://codecov.io/github/soapun/taskiq-kombu)
 
 
 ---
